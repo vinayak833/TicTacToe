@@ -22,15 +22,15 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript. Two players can
 - JavaScript (ES6)
 
 ---
-
 ## Project Structure
-"""
+
+```text
 tic-tac-toe/
-│── index.html
-│── tic.css
-│── tic.js
+├── index.html
+├── tic.css
+├── tic.js
 └── README.md
-"""
+```
 
 ---
 
