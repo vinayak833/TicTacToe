@@ -24,12 +24,13 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript. Two players can
 ---
 
 ## Project Structure
+"""
 tic-tac-toe/
 │── index.html
 │── tic.css
 │── tic.js
 └── README.md
-
+"""
 
 ---
 
